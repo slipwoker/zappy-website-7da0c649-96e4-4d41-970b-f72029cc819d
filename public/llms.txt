@@ -1,0 +1,84 @@
+# וולנסקי הנדסה — Generative Engine Optimization Map
+
+> Wolanski Engineering is an established elevator consulting firm with an existing website (lifts.co.il). The company operates in the engineering and vertical transportation sector, offering professional consulting services related to elevators. They are looking to refresh and modernize their current website while retaining their existing brand identity including their logo.
+
+---
+
+## Pages
+
+### בית
+https://-7da0c649.zappy5.app
+וולנסקי הנדסה מובילה את תחום ייעוץ המעליות בישראל עם ניסיון מוכח, מקצועיות ללא פשרות ופתרונות הנדסיים חכמים לכל סוג בניין. גלו למה אלפי לקוחות בוחרים בנו.
+
+### שירותים
+https://-7da0c649.zappy5.app/services
+מבדיקות בטיחות ועד ליווי פרויקטים מורכבים — שירותי ייעוץ המעליות של וולנסקי הנדסה מותאמים לצרכי הבניין שלכם. בדקו את מגוון הפתרונות המקצועיים שלנו עוד היום.
+
+### אודות
+https://-7da0c649.zappy5.app/about
+היכירו את הצוות המקצועי מאחורי וולנסקי הנדסה — מהנדסים מוסמכים עם שנות ניסיון בתחום המעליות בישראל, המחויבים לאיכות, לבטיחות ולשירות אישי בכל פרויקט.
+
+### צור קשר
+https://-7da0c649.zappy5.app/contact
+יש לכם שאלה על מעלית בבניין? רוצים ייעוץ מקצועי ממהנדס מוסמך? צרו קשר עם וולנסקי הנדסה עכשיו וקבלו מענה מהיר, אמין ומותאם בדיוק לצורכיכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7da0c649.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7da0c649.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7da0c649.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-7da0c649.zappy5.app/contact
+- Endpoint: https://-7da0c649.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `subject` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About וולנסקי הנדסה
+Wolanski Engineering is an established elevator consulting firm with an existing website (lifts.co.il). The company operates in the engineering and vertical transportation sector, offering professional consulting services related to elevators. They are looking to refresh and modernize their current website while retaining their existing brand identity including their logo.
+
+## Services/Products
+- ייעוץ מעליות
+
+## Target Audience
+- מנהלי נכסים ובעלי בניינים
+- יזמי נדל"ן
+- חברות ניהול מתקנים
+- אדריכלים
+- חברות ניהול / מנהלי פרויקטים
+
+## Industry
+Elevator Consulting & Engineering
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7da0c649.zappy5.app/sitemap.xml
+- Robots: https://-7da0c649.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7da0c649.zappy5.app/llms-full.txt
